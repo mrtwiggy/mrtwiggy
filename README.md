@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science and finance and how to use github
 - 💞️ I’m looking to collaborate on multiplayer games
 - 📫 How to reach me. DONT
-- 😄 Pronouns: 
+- 😄 Pronouns: fish/chips
 - ⚡ Fun fact: I am cool
 
 <!---
